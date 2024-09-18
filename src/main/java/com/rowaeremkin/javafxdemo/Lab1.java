@@ -1,3 +1,4 @@
+//Github: https://github.com/RowaEremkin/JavaFX-Labs
 package com.rowaeremkin.javafxdemo;
 
 public class Lab1 {
